@@ -31,3 +31,13 @@ result= A + B +c
 print("Sum=",result)
 
 print(type(result))
+
+Example 6: Write a Python program to check if a number is prime using if_else.
+num=float(input("No="))
+          
+if num%2==0:
+          print("No is not Prime",num)
+else:
+    print(num,"No is  prime")
+
+
