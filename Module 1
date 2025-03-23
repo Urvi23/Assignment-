@@ -1,9 +1,17 @@
+Introduction to Python Theory:
 #Write a Python program that prints "Hello, World!"
 print("Hello,World!")
 
-
 #Set up Python on your local machine and write a program to display your name
-
 name=input("What's Your Name?")
 print("hi",name)
+
+2. Programming Style
+#• Write a Python program variable 
+A=int(input("Enter value of a"))
+B=int(input("Enter value of b"))
+
+Sum= A + B
+
+print("Sum=",Sum)
 
